@@ -11,7 +11,7 @@ I am having a bachlor program in HKUST.
 
 
 <!---
-
+let me comment out these default stuff first, thanks!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
