@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my site 
 
-You can use the [editor on GitHub](https://github.com/AronWater/aronwater.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I like programming and I am always learning.
+
+For programming language, Python, C, Java are my favourites.
+
+I also like building website. I have tried using vuejs ,reactjs, django and much more. 
+
+I am having a bachlor program in HKUST.   
+
+
+[//]: # (
 
 ### Markdown
 
@@ -35,3 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+)
